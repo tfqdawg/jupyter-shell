@@ -1,2 +1,1 @@
-# jupyter-shell
-Python jupyter environment using nix-shell.
+## <p align="center"> Jupyter Nix-Shell </p>
