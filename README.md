@@ -10,7 +10,7 @@
 #### To Use
 1. Clone repo.
 2. Switch git remote.
-3. Declare packages/env variable inside `shell.nix` as needed.
+3. Declare packages/env variable inside [*shell.nix*](shell.nix) as needed.
 4. Activate nix-shell using,
 ```bash
 # bash
