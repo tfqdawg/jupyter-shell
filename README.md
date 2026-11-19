@@ -9,7 +9,10 @@
 
 #### To Use
 1. Clone repo.
-2. Switch git remote.
+2. Switch git remote,
+```bash
+git remote set-url origin <https/ssh_link>
+```
 3. Declare packages/env variable inside [*shell.nix*](shell.nix) as needed.
 4. Activate nix-shell using,
 ```bash
